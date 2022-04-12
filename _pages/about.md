@@ -24,5 +24,5 @@ News
 Apr 2022: I have been awarded the Prime Minister's Research Fellowship([PMRF](https://www.pmrf.in/)) in the December 2021 cycle!    
 Feb 2022: I e-attended the 1st Greek ACM-W Chapter [Winter School](https://gec-ws.athenarc.gr/) on Fairness in AI on 24th & 25th February, 2022!    
 Jan 2022:  **Marching with the Pink Parade: Evaluating Visual Search Recommendations for Non-binary Clothing Items** has been accepted for publication as an extended abstract at ACM CHI 2022 Case Studies! [[Preprint](https://arxiv.org/abs/2112.02384)]    [[Video Presentation](https://www.youtube.com/watch?v=1wQTqkoU6iE)]    [[Video Demo](https://drive.google.com/file/d/15U44__xXpnGRp3c65uH0_-TBcRwCWS3o/view)]    
-Dec 2021: **Two-Face: Adversarial Audit of Commercial Face Recognition Systems** has been accepted for publication as an extended abstract at ACM CHI 2022 Case Studies! [[Preprint](https://arxiv.org/abs/2111.09137)]    
+Dec 2021: **Two-Face: Adversarial Audit of Commercial Face Recognition Systems** has been accepted for publication at AAAI ICWSM 2022 as a full paper! [[Preprint](https://arxiv.org/abs/2111.09137)]    
 Sep 2021: I received my **M.Tech(Research)** degree from the Dept. of CDS, IISc. [[Thesis](https://drive.google.com/file/d/13dc-13gCk9GVGtDSd0LeyXSu6dHPV4q7/view)]
