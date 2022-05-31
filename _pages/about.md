@@ -21,6 +21,7 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+May 2022: **Platform Governance: Past, Present and Future** has been published as an _Arm's Length_ article in ACM GetMobile: Mobile Computing and Communications, Volume 26 Issue 1! [[Article](https://dl.acm.org/doi/abs/10.1145/3539668.3539674)]        
 Apr 2022: I have been awarded the Prime Minister's Research Fellowship([PMRF](https://www.pmrf.in/)) in the December 2021 cycle!    
 Feb 2022: I e-attended the 1st Greek ACM-W Chapter [Winter School](https://gec-ws.athenarc.gr/) on Fairness in AI on 24th & 25th February, 2022!    
 Jan 2022:  **Marching with the Pink Parade: Evaluating Visual Search Recommendations for Non-binary Clothing Items** has been accepted for publication as an extended abstract at ACM CHI 2022 Case Studies! [[Paper](https://dl.acm.org/doi/abs/10.1145/3491101.3503572)]    [[Preprint](https://arxiv.org/abs/2112.02384)]    [[Video Presentation](https://www.youtube.com/watch?v=1wQTqkoU6iE)]    [[Video Demo](https://drive.google.com/file/d/15U44__xXpnGRp3c65uH0_-TBcRwCWS3o/view)]    
