@@ -21,6 +21,7 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+Nov 2022: I have been selected to attend the AI Ethics and Governance (Turing Commons) [Training](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=81509&ef_sel_menu=1170&eventID=232) from 21st-25th November, 2022!    
 May 2022: **Platform Governance: Past, Present and Future** has been published as an _Arm's Length_ article in ACM GetMobile: Mobile Computing and Communications, Volume 26 Issue 1! [[Article](https://dl.acm.org/doi/abs/10.1145/3539668.3539674)]        
 Apr 2022: I have been awarded the Prime Minister's Research Fellowship([PMRF](https://www.pmrf.in/)) in the December 2021 cycle!    
 Feb 2022: I e-attended the 1st Greek ACM-W Chapter [Winter School](https://gec-ws.athenarc.gr/) on Fairness in AI on 24th & 25th February, 2022!    
