@@ -21,6 +21,7 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+Feb 2023: **A History of Diversity in the Web (Conference)** has been accepted as a full paper in The WebConference 2023 (Special Track on History of the Web).    
 Jan 2023: I have been selected to attend Google Research Week 2023 to be held in Bengaluru, India from 29th-31st January, 2023!    
 Nov 2022: I have been selected to attend the AI Ethics and Governance (Turing Commons) [Training](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=81509&ef_sel_menu=1170&eventID=232) from 21st-25th November, 2022!    
 May 2022: **Platform Governance: Past, Present and Future** has been published as an _Arm's Length_ article in ACM GetMobile: Mobile Computing and Communications, Volume 26 Issue 1! [[Article](https://dl.acm.org/doi/abs/10.1145/3539668.3539674)]        
