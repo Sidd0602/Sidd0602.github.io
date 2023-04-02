@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siddharth and I am a 3rd year PMRF Ph.D student at IIT Kharagpur, in the Dept. of Computer Science, working in the area of Fairness and Bias in AI with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I am a recipient of the Prime Minister's Research Fellowship.
+Hi, my name is Siddharth and I am a 3rd year PMRF Ph.D student at IIT Kharagpur, in the Dept. of Computer Science, working in the area of Data-driven analysis of e-commerce applications and face ID software with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). 
 
 Prior to this I was a Technical Project Lead at Huawei Technologies, India, working with the Cloud & AI team on Big Databases, focusing on query optimization and database connectors.
 
