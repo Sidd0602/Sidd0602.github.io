@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 - **A History of Diversity in The Web (Conference)**.    
-ACM Web Conference 2023 _History of the Web_ [[Article](https://dl.acm.org/doi/abs/10.1145/3543873.3585576)]    [[Video Demo](https://www.youtube.com/watch?v=Oe-GgBIHM3Q)]
+ACM Web Conference 2023 _History of the Web_ [[PDF](https://dl.acm.org/doi/abs/10.1145/3543873.3585576)]    [[Video Demo](https://www.youtube.com/watch?v=Oe-GgBIHM3Q)]
 - **Platform Governance: Past, Present and Future**.    
 ACM GetMobile: Mobile Computing and Communications, Volume 26 Issue 1 [[Article](https://dl.acm.org/doi/abs/10.1145/3539668.3539674)]
 - **Marching with the Pink Parade: Evaluating Visual Search Recommendations for Non-binary Clothing Items**.    
