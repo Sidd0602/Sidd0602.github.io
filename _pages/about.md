@@ -21,7 +21,8 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+June 2023: I will be delivering a Tutorial on AI & Ethics along with Prof. Animesh Mukherjee and Dr. Abhisek Dash at the 10th International Conference on Pattern Recognition and Machine Intelligence [(PReMI 2023)](https://www.isical.ac.in/~premi23/preconference_tutorials.html) which will be held on 11th December, 2023 in-person at ISI Kolkata, India.    
+June 2023: I am a Web Co-Chair for the 3rd edition of the International Conference on [AI-MLSystems](https://www.aimlsystems.org/2023/organising-committee/) which will be held from 25-28 Oct, 2023 in-person in Bengaluru, India.    
 May 2023: I visited Austin to present my paper **A History of Diversity in the Web (Conference)** at The WebConference 2023 (Special Track on History of the Web).    
 Feb 2023: **A History of Diversity in the Web (Conference)** has been accepted as a full paper in The WebConference 2023 (Special Track on History of the Web).    
 Jan 2023: I have been selected to attend Google Research Week 2023 to be held in Bengaluru, India from 29th-31st January, 2023!    
-Nov 2022: I have been selected to attend the AI Ethics and Governance (Turing Commons) [Training](https://www.eventsforce.net/turingevents/frontend/reg/thome.csp?pageID=81509&ef_sel_menu=1170&eventID=232) from 21st-25th November, 2022!    
