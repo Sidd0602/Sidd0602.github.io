@@ -21,6 +21,7 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+_September 2023_: "Auditing Gender Analyzers on Text Data" has been accepted as a full paper at [ASONAM-2023](https://asonam.cpsc.ucalgary.ca/2023/index.html). Looking forward to attending the conference in Marrakesh later this year!      
 _August 2023_: "Uncovering Biases in Face Recognition Systems" has been accepted for the Doctoral Consortium Track at [ECAI-2023](https://ecai2023.eu/callsforDC). Looking forward to attending the conference in Poland later this year!      
 _August 2023_: I am visiting [L3S Research Centre](https://www.l3s.de/), Leibniz University, Hannover, Germany as a research intern and will be working on explainability of open-source Face Recognition Systems!      
 _July 2023_: I have been selected to attend the Mediterranean Machine Learning Summer School 2023, to be held in-person in Thessaloniki, Greece from 28th August to 2nd September, 2023.     
