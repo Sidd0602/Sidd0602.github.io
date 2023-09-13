@@ -6,6 +6,8 @@ author_profile: true
 ---
 - **A Deep Dive into the Disparity of Word Error Rates Across Thousands of NPTEL MOOC Videos**.    
 AAAI ICWSM 2024 [[Preprint](https://arxiv.org/abs/2307.10587)]
+- **Auditing Gender Analyzers on Text Data**.    
+ASONAM 2023
 - **Uncovering Biases in Face Recognition Systems**.    
 ECAI 2023 _Doctoral Consortium_
 - **A History of Diversity in The Web (Conference)**.    
