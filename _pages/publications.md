@@ -7,9 +7,9 @@ author_profile: true
 - **A Deep Dive into the Disparity of Word Error Rates Across Thousands of NPTEL MOOC Videos**.    
 AAAI ICWSM 2024 [[Preprint](https://arxiv.org/abs/2307.10587)]
 - **Auditing Gender Analyzers on Text Data**.    
-ASONAM 2023
+ASONAM 2023 [[Preprint](https://arxiv.org/abs/2310.06061)]
 - **Uncovering Biases in Face Recognition Systems**.    
-ECAI 2023 _Doctoral Consortium_
+ECAI 2023 _Doctoral Consortium_ [[Accepted Abstract](https://drive.google.com/file/d/1WFF9NzL4Vmdhf9a2iinx3QVD4gwWd3ah/view?usp=sharing)]
 - **A History of Diversity in The Web (Conference)**.    
 ACM Web Conference 2023 _History of the Web_ [[PDF](https://dl.acm.org/doi/abs/10.1145/3543873.3585576)]    [[Video Demo](https://www.youtube.com/watch?v=Oe-GgBIHM3Q)]
 - **Platform Governance: Past, Present and Future**.    
