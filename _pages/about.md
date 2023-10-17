@@ -22,7 +22,7 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 News
 ======
 ***September 2023***: I have been selected to attend the SLMath Workshop on [Randomization, Neutrality, and Fairness](https://www.slmath.org/workshops/1083) 2023, to be held in-person and online in Berkeley, California, USA from 23rd to 27th October, 2023.      
-***September 2023***: "_Auditing Gender Analyzers on Text Data_" has been accepted as a full paper at [ASONAM-2023](https://asonam.cpsc.ucalgary.ca/2023/index.html). Looking forward to attending the conference in Marrakesh later this year!      
+***September 2023***: "_Auditing Gender Analyzers on Text Data_" has been accepted as a full paper at [ASONAM-2023](https://asonam.cpsc.ucalgary.ca/2023/index.html). Looking forward to attending the conference in Kusadasi later this year!      
 ***August 2023***: "_Uncovering Biases in Face Recognition Systems_" has been accepted for the Doctoral Consortium Track at [ECAI-2023](https://ecai2023.eu/callsforDC). Looking forward to attending the conference in Poland later this year!      
 ***August 2023***: I am visiting [L3S Research Centre](https://www.l3s.de/), Leibniz University, Hannover, Germany as a research intern and will be working on explainability of open-source Face Recognition Systems!      
 ***July 2023***: I have been selected to attend the Mediterranean Machine Learning Summer School 2023, to be held in-person in Thessaloniki, Greece from 28th August to 2nd September, 2023.     
