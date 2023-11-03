@@ -21,6 +21,7 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+***October 2023***: I have been selected to attend the first Pingala Interactions in Computing event [PIC 2024](https://event.india.acm.org/pic/#about), to be held in-person in Mysore, Karnataka, India from 3rd to 6th February, 2024.      
 ***September 2023***: I have been selected to attend the SLMath Workshop on [Randomization, Neutrality, and Fairness](https://www.slmath.org/workshops/1083) 2023, to be held in-person and online in Berkeley, California, USA from 23rd to 27th October, 2023.      
 ***September 2023***: "_Auditing Gender Analyzers on Text Data_" has been accepted as a full paper at [ASONAM-2023](https://asonam.cpsc.ucalgary.ca/2023/index.html). Looking forward to attending the conference in Kusadasi later this year!      
 ***August 2023***: "_Uncovering Biases in Face Recognition Systems_" has been accepted for the Doctoral Consortium Track at [ECAI-2023](https://ecai2023.eu/callsforDC). Looking forward to attending the conference in Poland later this year!      
