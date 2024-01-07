@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siddharth and I am a 3rd year PMRF (Prime Minister's Research Fellowship) Ph.D student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working towards auditing user-interfaced AI software like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I also  collaborate with Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) and Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/).
+Hi, my name is Siddharth and I am a 4th year PMRF (Prime Minister's Research Fellowship) Ph.D student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working towards auditing user-interfaced AI software like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I also  collaborate with Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) and Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/).
 
 In another lifetime, I was a Technical Project Lead at Huawei Technologies, India, working with the Cloud & AI team on Big Databases, focusing on query optimization and database connectors.
 
