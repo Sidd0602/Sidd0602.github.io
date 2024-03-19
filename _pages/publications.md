@@ -9,7 +9,7 @@ Anand Kumar Rai, **_Siddharth D Jaiswal_**, Animesh Mukherjee
 AAAI ICWSM 2024 [[Preprint](https://arxiv.org/abs/2307.10587)]
 - **Auditing Gender Analyzers on Text Data**.    
 **_Siddharth D Jaiswal_**, Ankit Kumar Verma, Animesh Mukherjee    
-ASONAM 2023 [[Preprint](https://arxiv.org/abs/2310.06061)]    [[Slides](https://docs.google.com/presentation/d/1jafjLurFTxM3q_RbA9E896NPx2IreRns0pjwt2ADIF0/edit?usp=sharing)]
+ASONAM 2023 [[PDF](https://dl.acm.org/doi/abs/10.1145/3625007.3627324)]    [[Preprint](https://arxiv.org/abs/2310.06061)]    [[Slides](https://docs.google.com/presentation/d/1jafjLurFTxM3q_RbA9E896NPx2IreRns0pjwt2ADIF0/edit?usp=sharing)]
 - **Uncovering Biases in Face Recognition Systems**.    
 **_Siddharth D Jaiswal_**    
 ECAI 2023 _Doctoral Consortium_ [[Accepted Abstract](https://drive.google.com/file/d/1WFF9NzL4Vmdhf9a2iinx3QVD4gwWd3ah/view?usp=sharing)]
