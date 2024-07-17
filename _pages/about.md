@@ -21,6 +21,5 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+***July 2024***: "Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems" has been accepted as a full paper at [AIES-2024](https://www.aies-conference.com/2024/). Looking forward to attending the conference in USA later this year!      
 ***February 2024***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
-***December 2023***: Our ASONAM 2023 paper "_Auditing Gender Analyzers on Text Data_" has been invited to be presented at ACM [ARCS 2024](https://event.india.acm.org/arcs/home/), to be held in-person in NISER Bhubaneswar, Orissa, India from 8th to 9th February, 2024. I have also been invited to attend ACM Annual Event 2024 at the same venue on 10th February, 2024. Thanks to ACM India for the travel grant!      
-***October 2023***: I have been selected to attend the first Pingala Interactions in Computing event [PIC 2024](https://event.india.acm.org/pic/#about), to be held in-person in Mysore, Karnataka, India from 3rd to 6th February, 2024. Thanks to ACM India for the travel grant!      
