@@ -4,6 +4,9 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+- **The Asimov Fallacy: Rethinking AI Ethics in a World of Inevitable Harm**    
+Animesh Mukherjee, **_Siddharth D Jaiswal_**, Abhisek Dash    
+AI Truth Ethics Podcast, Alex Tsakiris [[Youtube](https://www.youtube.com/watch?v=prUN4jLEwiM)]
 - **AI and Ethics**.    
 Animesh Mukherjee, **_Siddharth D Jaiswal_**, Abhisek Dash    
 PReMI 2023 (Tutorial) [[Youtube](https://www.youtube.com/watch?v=TYd3c2IMM-Y)]
