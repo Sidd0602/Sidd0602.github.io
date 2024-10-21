@@ -6,7 +6,7 @@ author_profile: true
 ---
 - **Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**.    
 **_Siddharth D Jaiswal_**, Animesh Ganai, Abhisek Dash, Saptarshi Ghosh, Animesh Mukherjee    
-AAAI/ACM AIES 2024 [[PDF]()]    [[Preprint](https://arxiv.org/abs/2407.15810)]
+AAAI/ACM AIES 2024 [[PDF](https://ojs.aaai.org/index.php/AIES/article/view/31666)]    [[Preprint](https://arxiv.org/abs/2407.15810)]
 - **A Deep Dive into the Disparity of Word Error Rates Across Thousands of NPTEL MOOC Videos**.    
 Anand Kumar Rai, **_Siddharth D Jaiswal_**, Animesh Mukherjee    
 AAAI ICWSM 2024 [[PDF](https://ojs.aaai.org/index.php/ICWSM/article/view/31390)]    [[Preprint](https://arxiv.org/abs/2307.10587)]
