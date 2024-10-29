@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siddharth and I am a 4th year PMRF (Prime Minister's Research Fellowship) Ph.D student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working towards auditing user-interfaced AI software like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I also  collaborate with Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/), Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) and [Anand Rai](https://www.linkedin.com/in/raianand1991/).
+Hi, my name is Siddharth, and I am a 4th year PMRF (Prime Minister's Research Fellowship) PhD student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working towards auditing user-interfaced AI software like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I also  collaborate with Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/), Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) and Mr. [Anand Rai](https://www.linkedin.com/in/raianand1991/).
 
 In another lifetime, I was a Technical Project Lead at Huawei Technologies, India, working with the Cloud & AI team on Big Databases, focusing on query optimization and database connectors.
 
@@ -21,6 +21,7 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+***October 2024***: "Audit & Mitigation of Gender Biases in Human-AI Platforms" has been accepted for the Doctoral Consortium at [ICPR-2024](https://icpr2024.org/). Looking forward to presenting my PhD work at the conference, which will be held in Kolkata, my hometown, this year!      
 ***September 2024***: "DENOASR: Debiasing ASRs through Selective Denoising" has been accepted as a Short Paper at [ICKG-2024](http://ickg2024.openkg.cn/). The conference will be in Abu Dhabi, co-located with IEEE ICDM 2024!      
 ***August 2024***: "Uncovering Gender Biases in Human-AI Platforms" has been accepted for the Student Program at [AIES-2024](https://www.aies-conference.com/2024/). Looking forward to presenting my PhD thesis work along with a paper at the main conference in USA later this year!      
 ***July 2024***: "Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems" has been accepted as a full paper at [AIES-2024](https://www.aies-conference.com/2024/). Looking forward to attending the conference in USA later this year!      
