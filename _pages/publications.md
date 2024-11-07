@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+- **DENOASR: Debiasing ASRs through Selective Denoising**.    
+Anand Kumar Rai, **_Siddharth D Jaiswal_**, Shubham Prakash, Bendi Pragnya Sree, Animesh Mukherjee    
+IEEE ICKG 2024 [[PDF]()]    [[Preprint](https://arxiv.org/abs/2410.16712)]
 - **Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**.    
 **_Siddharth D Jaiswal_**, Animesh Ganai, Abhisek Dash, Saptarshi Ghosh, Animesh Mukherjee    
 AAAI/ACM AIES 2024 [[PDF](https://ojs.aaai.org/index.php/AIES/article/view/31666)]    [[Preprint](https://arxiv.org/abs/2407.15810)]
