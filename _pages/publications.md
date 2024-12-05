@@ -3,13 +3,19 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--- 
+- **Audit & Mitigation of Gender Biases in Human-AI Platforms**.    
+**_Siddharth D Jaiswal_**    
+ICPR 2024 _Doctoral Consortium_ **[[Outstanding Poster](https://drive.google.com/file/d/1lO55vFy_eCWBPUQStE_jECocbckkOHyZ/view?usp=sharing)] 🏆** [[Accepted Abstract](https://drive.google.com/file/d/1E1QOSOnTE9fysP7utM_3tPggmdt-1_tp/view?usp=sharing)]
 - **DENOASR: Debiasing ASRs through Selective Denoising**.    
 Anand Kumar Rai, **_Siddharth D Jaiswal_**, Shubham Prakash, Bendi Pragnya Sree, Animesh Mukherjee    
 IEEE ICKG 2024 [[PDF]()]    [[Preprint](https://arxiv.org/abs/2410.16712)]
 - **Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**.    
 **_Siddharth D Jaiswal_**, Animesh Ganai, Abhisek Dash, Saptarshi Ghosh, Animesh Mukherjee    
 AAAI/ACM AIES 2024 [[PDF](https://ojs.aaai.org/index.php/AIES/article/view/31666)]    [[Preprint](https://arxiv.org/abs/2407.15810)]
+- **Uncovering Gender Biases in Human-AI Platforms**.    
+**_Siddharth D Jaiswal_**    
+AAAI/ACM AIES 2024 _Student Program_ [[Accepted Abstract]()]
 - **A Deep Dive into the Disparity of Word Error Rates Across Thousands of NPTEL MOOC Videos**.    
 Anand Kumar Rai, **_Siddharth D Jaiswal_**, Animesh Mukherjee    
 AAAI ICWSM 2024 [[PDF](https://ojs.aaai.org/index.php/ICWSM/article/view/31390)]    [[Preprint](https://arxiv.org/abs/2307.10587)]
