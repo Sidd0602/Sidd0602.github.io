@@ -15,7 +15,7 @@ IEEE ICKG 2024 [[PDF]()]    [[Preprint](https://arxiv.org/abs/2410.16712)]
 AAAI/ACM AIES 2024 [[PDF](https://ojs.aaai.org/index.php/AIES/article/view/31666)]    [[Preprint](https://arxiv.org/abs/2407.15810)]
 - **Uncovering Gender Biases in Human-AI Platforms**.    
 **_Siddharth D Jaiswal_**    
-AAAI/ACM AIES 2024 _Student Program_ [[Accepted Abstract]()]
+AAAI/ACM AIES 2024 _Student Program_ [[PDF](https://ojs.aaai.org/index.php/AIES/article/view/31898)]
 - **A Deep Dive into the Disparity of Word Error Rates Across Thousands of NPTEL MOOC Videos**.    
 Anand Kumar Rai, **_Siddharth D Jaiswal_**, Animesh Mukherjee    
 AAAI ICWSM 2024 [[PDF](https://ojs.aaai.org/index.php/ICWSM/article/view/31390)]    [[Preprint](https://arxiv.org/abs/2307.10587)]
