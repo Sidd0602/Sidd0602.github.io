@@ -21,6 +21,5 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
-***October 2024***: "Audit & Mitigation of Gender Biases in Human-AI Platforms" has been accepted for the Doctoral Consortium at [ICPR-2024](https://icpr2024.org/). Looking forward to presenting my PhD work at the conference, which will be held in Kolkata, my hometown, this year!      
-***September 2024***: "DENOASR: Debiasing ASRs through Selective Denoising" has been accepted as a Short Paper at [ICKG-2024](http://ickg2024.openkg.cn/). The conference will be in Abu Dhabi, co-located with IEEE ICDM 2024!      
-***February 2024***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
+***March 2025***: ***"Exploring Disparity-Accuracy Trade-offs in Face Recognition Systems: The Role of Datasets, Architectures, and Loss Functions"*** has been accepted as a full paper at [AAAI ICWSM-2025](https://www.icwsm.org/2025/index.html). Looking forward to presenting this work at the conference, which will be held in Copenhagen, Denmark this year!      
+***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
