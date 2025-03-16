@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 --- 
+- **Exploring Disparity-Accuracy Trade-offs in Face Recognition Systems: The Role of Datasets, Architectures, and Loss Functions**.    
+**_Siddharth D Jaiswal_**, Sagnik Basu, Sandipan Sikdar, Animesh Mukherjee        
+AAAI ICWSM 2025 [[PDF]()]    [[Preprint]()]
 - **Audit & Mitigation of Gender Biases in Human-AI Platforms**.    
 **_Siddharth D Jaiswal_**    
 ICPR 2024 _Doctoral Consortium_ **[[Outstanding Poster](https://drive.google.com/file/d/1lO55vFy_eCWBPUQStE_jECocbckkOHyZ/view?usp=sharing)] 🏆** [[Accepted Abstract](https://drive.google.com/file/d/1E1QOSOnTE9fysP7utM_3tPggmdt-1_tp/view?usp=sharing)]
