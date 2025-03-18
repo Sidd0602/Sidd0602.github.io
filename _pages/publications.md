@@ -12,7 +12,7 @@ AAAI ICWSM 2025 [[PDF]()]    [[Preprint]()]
 ICPR 2024 _Doctoral Consortium_ **[[Outstanding Poster](https://drive.google.com/file/d/1lO55vFy_eCWBPUQStE_jECocbckkOHyZ/view?usp=sharing)] 🏆** [[Accepted Abstract](https://drive.google.com/file/d/1E1QOSOnTE9fysP7utM_3tPggmdt-1_tp/view?usp=sharing)]
 - **DENOASR: Debiasing ASRs through Selective Denoising**.    
 Anand Kumar Rai, **_Siddharth D Jaiswal_**, Shubham Prakash, Bendi Pragnya Sree, Animesh Mukherjee    
-IEEE ICKG 2024 [[PDF]()]    [[Preprint](https://arxiv.org/abs/2410.16712)]
+IEEE ICKG 2024 [[PDF](https://www.computer.org/csdl/proceedings-article/ickg/2024/088200a283/24sKnN8uLNS)]    [[Preprint](https://arxiv.org/abs/2410.16712)]
 - **Breaking the Global North Stereotype: A Global South-centric Benchmark Dataset for Auditing and Mitigating Biases in Facial Recognition Systems**.    
 **_Siddharth D Jaiswal_**, Animesh Ganai, Abhisek Dash, Saptarshi Ghosh, Animesh Mukherjee    
 AAAI/ACM AIES 2024 [[PDF](https://ojs.aaai.org/index.php/AIES/article/view/31666)]    [[Preprint](https://arxiv.org/abs/2407.15810)]
