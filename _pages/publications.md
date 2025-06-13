@@ -4,8 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 --- 
+- **Triparts: Scalable Streaming Graph Partitioning to Enhance Community Structure**.    
+Ruchi Bhoot, Tuhin Khare, Manoj Agarwal, **_Siddharth D Jaiswal_**, Yogesh Simmhan    
+VLDB 2025 [[Proceeding]()]    [[Preprint]()]
 - **Exploring Disparity-Accuracy Trade-offs in Face Recognition Systems: The Role of Datasets, Architectures, and Loss Functions**.    
-**_Siddharth D Jaiswal_**, Sagnik Basu, Sandipan Sikdar, Animesh Mukherjee        
+**_Siddharth D Jaiswal_**, Sagnik Basu, Sandipan Sikdar, Animesh Mukherjee    
 AAAI ICWSM 2025 [[Proceeding](https://ojs.aaai.org/index.php/ICWSM/article/view/35852)]    [[Preprint](https://arxiv.org/abs/2503.14138)]
 - **Audit & Mitigation of Gender Biases in Human-AI Platforms**.    
 **_Siddharth D Jaiswal_**    
