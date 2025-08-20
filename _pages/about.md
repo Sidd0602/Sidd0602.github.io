@@ -21,6 +21,6 @@ I play football and volleyball and am a huge supporter of Manchester United FC. 
 
 News
 ======
+***Aug 2025***: ***"Fairer Datasets for Advancing Responsible AI Systems"*** has been accepted for the Student Program at [AIES-2025](https://www.aies-conference.com/2025/). Hoping to be a part of the conference in Madrid later this year!      
 ***May 2025***: ***"Triparts: Scalable Streaming Graph Partitioning to Enhance Community Structure"*** has been accepted as a full paper at [VLDB-2025](https://vldb.org/2025/). I had worked on the initial idea during my M.Tech at IISc. Happy to see it come to fruition through the efforts of my co-authors after all this time!      
-***March 2025***: ***"Exploring Disparity-Accuracy Trade-offs in Face Recognition Systems: The Role of Datasets, Architectures, and Loss Functions"*** has been accepted as a full paper at [AAAI ICWSM-2025](https://www.icwsm.org/2025/index.html). Looking forward to presenting this work at the conference, which will be held in Copenhagen, Denmark this year!      
 ***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
