@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 --- 
+# Peer-reviewed Publications
 - **Triparts: Scalable Streaming Graph Partitioning to Enhance Community Structure**.    
 Ruchi Bhoot, Tuhin Khare, Manoj Agarwal, **_Siddharth D Jaiswal_**, Yogesh Simmhan    
 VLDB 2025 [[Proceeding](https://www.vldb.org/pvldb/vol18/p2992-simmhan.pdf)]    [[Preprint]()]
@@ -48,3 +49,14 @@ M.Tech (Research) Thesis IISc [[PDF](https://drive.google.com/file/d/13dc-13gCk9
 - **A Partition-centric Distributed Algorithm for Identifying Euler Circuits in Large Graphs**.    
 **_Siddharth D Jaiswal_** and Yogesh Simmhan    
 IEEE HPBDC 2019 (in conjunction with IPDPS 2019) [[Proceeding](https://ieeexplore.ieee.org/document/8778292/)]
+
+# Preprints
+- **"Haet Bhasha aur Diskrimineshun": Phonetic Perturbations in Code-Mixed Hinglish to Red-Team LLMs**    
+Darpan Aswal, **_Siddharth D Jaiswal_**    
+[[Arxiv](https://arxiv.org/abs/2503.14138)]
+- **"Auditing the Grid-Based Placement of Private Label Products on E-commerce Search Result Pages**    
+**_Siddharth D Jaiswal_**, Abhisek Dash, Nitika Shroff, Yashwanth Babu Vunnam, Saptarshi Ghosh, Animesh Mukherjee    
+[[Arxiv](https://arxiv.org/abs/2407.14650)]
+- **Mask-up: Investigating Biases in Face Re-identification for Masked Faces**    
+**_Siddharth D Jaiswal_**, Ankit Kr. Verma, Animesh Mukherjee    
+[[Arxiv](https://arxiv.org/abs/2402.13771)]    
