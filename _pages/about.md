@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siddharth, and I am a 5th year PhD student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working towards auditing user-interfaced AI software like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I was a PMRF (Prime Minister's Research Fellowship) scholar from January 2022 to January 2025. I also collaborate with Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/), Prof. [Sandipan Sikdar](https://sites.google.com/view/sandipanscssh/), Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) and Mr. [Anand Rai](https://www.linkedin.com/in/raianand1991/).
+Hi, my name is Siddharth, and I am a 5th year PhD student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working towards auditing user-interfaced AI software like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I was a PMRF (Prime Minister's Research Fellowship) scholar from January 2022 to January 2025. 
 
 In another lifetime, I was a Technical Project Lead at Huawei Technologies, India, working with the Cloud & AI team on Big Databases, focusing on query optimization and database connectors.
 
@@ -18,6 +18,12 @@ I completed my B.Tech in Computer Science and Engg in 2016 from [Tezpur Central 
 
 I play football and volleyball and am a huge supporter of Manchester United FC. I like photography, reading books and writing poetry. Albert Camus, Ruskin Bond and Khaled Hosseini are some of the authors whose works I love. 
 
+### Collaborators
+Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) (IIT Kharagpur, India)    
+Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) (IIT Kharagpur, India)    
+Prof. [Sandipan Sikdar](https://sites.google.com/view/sandipanscssh/) (L3S Research Centre, LUH, Germany)    
+Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) (MPI-SWS, Germany)    
+Mr. [Anand Rai](https://www.linkedin.com/in/raianand1991/) (IIT Kharagpur, India)    
 
 News
 ======
