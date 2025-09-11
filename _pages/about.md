@@ -24,6 +24,7 @@ Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) (IIT Khar
 Prof. [Sandipan Sikdar](https://sites.google.com/view/sandipanscssh/) (L3S Research Centre, LUH, Germany)    
 Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) (MPI-SWS, Germany)    
 Mr. [Anand Rai](https://www.linkedin.com/in/raianand1991/) (IIT Kharagpur, India)    
+Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Kharagpur, India)    
 
 News
 ======
