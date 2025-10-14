@@ -53,7 +53,7 @@ IEEE HPBDC 2019 (in conjunction with IPDPS 2019) [[Proceeding](https://ieeexplor
 # Preprints
 - **"Haet Bhasha aur Diskrimineshun": Phonetic Perturbations in Code-Mixed Hinglish to Red-Team LLMs**    
 Darpan Aswal, **_Siddharth D Jaiswal_**    
-[[Arxiv](https://arxiv.org/abs/2503.14138)]
+[[Arxiv](https://arxiv.org/abs/2505.14226)]
 - **"Auditing the Grid-Based Placement of Private Label Products on E-commerce Search Result Pages**    
 **_Siddharth D Jaiswal_**, Abhisek Dash, Nitika Shroff, Yashwanth Babu Vunnam, Saptarshi Ghosh, Animesh Mukherjee    
 [[Arxiv](https://arxiv.org/abs/2407.14650)]
