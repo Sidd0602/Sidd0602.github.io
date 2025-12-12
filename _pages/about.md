@@ -29,5 +29,4 @@ Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Khara
 News
 ======
 ***Dec 2025***: Our submission to the [AAAI-EGSAI](https://sites.google.com/view/globalsouthai-aaai-26/home) Workshop has been accepted for presentation. Looking forward to attending the event in Singapore in January, 2026!    
-***Dec 2025***: I am attending the [CARE Conference](https://event.iitg.ac.in/mffcaredsai2025/) in IIT Guwahati and presenting a poster on my AIES 2024 work!    
 ***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
