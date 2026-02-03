@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siddharth, and I am a 5th year PhD student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working towards auditing user-interfaced AI software like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/). I was a PMRF (Prime Minister's Research Fellowship) scholar from January 2022 to January 2025. 
+Hi, my name is Siddharth. I was a PMRF PhD student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working on auditing human-facing AI platforms like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/).  
 
 In another lifetime, I was a Technical Project Lead at Huawei Technologies, India, working with the Cloud & AI team on Big Databases, focusing on query optimization and database connectors.
 
@@ -28,5 +28,5 @@ Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Khara
 
 News
 ======
-***Dec 2025***: Our submission to the [AAAI-EGSAI](https://sites.google.com/view/globalsouthai-aaai-26/home) Workshop has been accepted for presentation. Looking forward to attending the event in Singapore in January, 2026!    
+***Jan 2026***: I have submitted my PhD thesis-- "Auditing and Mitigating Biases in Face Recognition and Gender Analyzer Systems". The last 5 years at IIT Kharagpur were extremely fulfilling. Excited for what comes next!    
 ***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
