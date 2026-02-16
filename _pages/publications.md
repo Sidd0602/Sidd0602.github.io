@@ -7,7 +7,7 @@ author_profile: true
 # Peer-reviewed Publications
 - **Fairer Datasets for Advancing Responsible AI Systems**.    
 **_Siddharth D Jaiswal_**    
-AAAI/ACM AIES 2025 _Student Program_ [[Proceeding]()]
+AAAI/ACM AIES 2025 _Student Program_ [[Proceeding](https://ojs.aaai.org/index.php/AIES/article/view/36955)]
 - **Triparts: Scalable Streaming Graph Partitioning to Enhance Community Structure**.    
 Ruchi Bhoot, Tuhin Khare, Manoj Agarwal, **_Siddharth D Jaiswal_**, Yogesh Simmhan    
 VLDB 2025 [[Proceeding](https://www.vldb.org/pvldb/vol18/p2992-simmhan.pdf)]    [[Preprint]()]
