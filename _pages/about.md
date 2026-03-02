@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siddharth. I was a PMRF PhD student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working on auditing human-facing AI platforms like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/).  
+Hi, my name is Siddharth. I am presently a Research Scientist at the Koita Centre for Digital Health (Ashoka University) and a Visiting Researcher at Microsoft Research India, working with Dr. Mohit Jain & Dr. Sunayana Sitaram.
+
+I was a PMRF PhD student at IIT Kharagpur, in the Dept. of Computer Science & Engineering, working on auditing human-facing AI platforms like Face Recognition Systems and e-commerce platforms to identify and mitigate biases against minority stakeholders, with Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/).  
 
 In another lifetime, I was a Technical Project Lead at Huawei Technologies, India, working with the Cloud & AI team on Big Databases, focusing on query optimization and database connectors.
 
@@ -28,5 +30,6 @@ Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Khara
 
 News
 ======
+***Feb 2026***: I have joined KCDH (Ashoka University) as a Research Scientist and Microsoft Research India as a Visiting Researcher on a project to evaluate V2DD tools for the medical domain, and will be based out of Bangalore for the foreseeable future!    
 ***Jan 2026***: I have submitted my PhD thesis-- "Auditing and Mitigating Biases in Face Recognition and Gender Analyzer Systems". The last 5 years at IIT Kharagpur were extremely fulfilling. Excited for what comes next!    
 ***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
