@@ -60,10 +60,13 @@ IEEE HPBDC 2019 (in conjunction with IPDPS 2019) [[Proceeding](https://ieeexplor
 - **Building a Cultural Perspective on Doctor-Patient Conversations**    
 Krithi Shailya, **_Siddharth D Jaiswal_**, Ashish Makani, Suvrankar Datta, Sunayana Sitaram, Mohit Jain    
 [[Arxiv](https://arxiv.org/abs/2609.18390)]
+- **Playing Games with My Heart: An Evaluation of AI Companion Apps**    
+Maribeth Rauh, Dick AH Blankvoort, Matias Duran, Caoilfhionn Ní Dheoráin, Harshvardhan J Pandit, Syrine Enneifer, **_Siddharth D Jaiswal_**, Anthony Ventresque, Abeba Birhane    
+[[Arxiv](https://arxiv.org/abs/2605.08093)]   
 - **Phonetic Perturbations Reveal Tokenizer-Rooted Safety Gaps in LLMs**    
 Darpan Aswal, **_Siddharth D Jaiswal_**    
 [[Arxiv](https://arxiv.org/abs/2505.14226)]
-- **"Auditing the Grid-Based Placement of Private Label Products on E-commerce Search Result Pages**    
+- **Auditing the Grid-Based Placement of Private Label Products on E-commerce Search Result Pages**    
 **_Siddharth D Jaiswal_**, Abhisek Dash, Nitika Shroff, Yashwanth Babu Vunnam, Saptarshi Ghosh, Animesh Mukherjee    
 [[Arxiv](https://arxiv.org/abs/2407.14650)]
 - **Mask-up: Investigating Biases in Face Re-identification for Masked Faces**    
