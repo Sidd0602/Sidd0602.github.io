@@ -54,7 +54,13 @@ M.Tech (Research) Thesis IISc [[PDF](https://drive.google.com/file/d/13dc-13gCk9
 IEEE HPBDC 2019 (in conjunction with IPDPS 2019) [[Proceeding](https://ieeexplore.ieee.org/document/8778292/)]
 
 # Preprints
-- **"Haet Bhasha aur Diskrimineshun": Phonetic Perturbations in Code-Mixed Hinglish to Red-Team LLMs**    
+- **Evaluating Ambient Clinical Scribes in India: The Need for Multilingual Real-World Clinical Conversation Data**    
+**_Siddharth D Jaiswal_**, Krithi Shailya, Ashish Makani, Suvrankar Datta, Sunayana Sitaram, Mohit Jain    
+[[Arxiv](https://arxiv.org/abs/2609.17355)]
+- **Building a Cultural Perspective on Doctor-Patient Conversations**    
+Krithi Shailya, **_Siddharth D Jaiswal_**, Ashish Makani, Suvrankar Datta, Sunayana Sitaram, Mohit Jain    
+[[Arxiv](https://arxiv.org/abs/2609.18390)]
+- **Phonetic Perturbations Reveal Tokenizer-Rooted Safety Gaps in LLMs**    
 Darpan Aswal, **_Siddharth D Jaiswal_**    
 [[Arxiv](https://arxiv.org/abs/2505.14226)]
 - **"Auditing the Grid-Based Placement of Private Label Products on E-commerce Search Result Pages**    
