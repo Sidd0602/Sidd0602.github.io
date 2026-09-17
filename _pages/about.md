@@ -30,6 +30,6 @@ Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Khara
 
 News
 ======
-***Aug 2026***: Ended my tenure as a Visiting Researcher at Microsoft Research India. Had a great time working on multiple projects. Check the Publications page for preprints!
+***Aug 2026***: Ended my tenure as a Visiting Researcher at Microsoft Research India. Had a great time working on multiple projects. Check the Publications page for preprints!    
 ***June 2026***: I successfully defended my PhD thesis, "Auditing and Mitigating Biases in Face Recognition and Gender Analyzer Systems" from the Dept. of CSE, IIT Kharagpur. Excited for what's next!    
 ***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested to present/attend!      
