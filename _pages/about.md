@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Siddharth.    
+Hi, my name is Siddharth. I am a Responsible AI researcher, primarily interested in evaluating human-facing AI platforms that are deployed across geographies, cultures, and demographics. I intend to understand (1) how well these systems perform for such users, (2) if and where they go wrong, and (3) how we can address these concerns in an ecologically valid manner.     
 
-I completed my PhD in the Dept. of Computer Science & Engineering at IIT Kharagpur, working on auditing human-facing AI platforms such as Face Recognition Systems and e-commerce platforms to identify and mitigate biases against socially salient groups, under the supervision of Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/).      
+I completed my PhD from the Dept. of [CSE](https://cse.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I was part of the [CNeRG](https://cnerg-iitkgp.github.io/) Lab, working on multiple aspects of Responsible AI, including auditing human-facing AI platforms such as Face Recognition Systems and e-commerce platforms to identify and mitigate biases against socially salient groups using low-resource, data-centric methods.
 
-I completed my M.Tech(Research) degree from Dept of [CDS](https://cds.iisc.ac.in/), [IISc](https://iisc.ac.in/), Bengaluru, India. During my time at IISc, I was associated with the DREAM Lab, where I worked on distributed graph algorithms. I also received the Microsoft Data Science Fellowship for the duration of my degree. 
+I completed my M.Tech(Research) degree from Dept of [CDS](https://cds.iisc.ac.in/), [IISc Bengaluru](https://iisc.ac.in/), India. During my time at IISc, I was part of the DREAM Lab, where I worked on distributed graph algorithms. I also received the Microsoft Data Science Fellowship for the duration of my degree. 
 
 I completed my B.Tech in Computer Science and Engg in 2016 from [Tezpur Central University](http://www.tezu.ernet.in/), Tezpur, Assam, India. 
  
