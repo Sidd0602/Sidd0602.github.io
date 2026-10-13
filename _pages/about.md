@@ -27,8 +27,27 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, my name is Siddharth. I am a Responsible AI researcher, primarily interested in evaluating human-facing AI platforms that are deployed across geographies, cultures, and demographics. I intend to understand (1) how well these systems perform for such users, (2) if and where they go wrong, and (3) how we can address these concerns in an ecologically valid manner.     
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my PhD from the Dept. of [CSE](https://cse.iitkgp.ac.in/), [IIT Kharagpur](https://www.iitkgp.ac.in/). I was part of the [CNeRG](https://cnerg-iitkgp.github.io/) Lab, working on multiple aspects of Responsible AI, including auditing human-facing AI platforms such as Face Recognition Systems and e-commerce platforms to identify and mitigate biases against socially salient groups using low-resource, data-centric methods.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my M.Tech(Research) degree from Dept of [CDS](https://cds.iisc.ac.in/), [IISc Bengaluru](https://iisc.ac.in/), India. During my time at IISc, I was part of the DREAM Lab, where I worked on distributed graph algorithms. I also received the Microsoft Data Science Fellowship for the duration of my degree. 
+
+I completed my B.Tech in Computer Science and Engg in 2016 from [Tezpur Central University](http://www.tezu.ernet.in/), Tezpur, Assam, India. 
+
+
+### Collaborators
+Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) (IIT Kharagpur, India)    
+Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) (IIT Kharagpur, India)    
+Prof. [Sandipan Sikdar](https://sites.google.com/view/sandipanscssh/) (L3S Research Centre, LUH, Germany)    
+Dr. [Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) (Microsoft Research India)    
+Dr. [Mohit Jain](https://mohitjaindr.github.io/) (Microsoft Research India)    
+Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) (MPI-SWS, Germany)    
+Mr. [Anand Rai](https://www.linkedin.com/in/raianand1991/) (IIT Kharagpur, India)    
+Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Kharagpur, India)    
+
+News
+======
+***Aug 2026***: Ended my tenure as a Visiting Researcher at Microsoft Research India. Had a great time working on multiple projects. Check the Publications page for preprints!    
+***June 2026***: I successfully defended my PhD thesis, "Auditing and Mitigating Biases in Face Recognition and Gender Analyzer Systems" from the Dept. of CSE, IIT Kharagpur. Excited for what's next!    
+***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested in presenting/attending!      
