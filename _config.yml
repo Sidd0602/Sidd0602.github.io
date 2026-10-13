@@ -356,7 +356,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Jaiswal]
-  first_name: [Siddharth, D.]
+    first_name: [Siddharth, Siddharth D, Siddharth D.]
 
   style: apa
   locale: en
