@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD, IIT Kharagpur.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,10 +15,10 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -45,9 +41,3 @@ Dr. [Mohit Jain](https://mohitjaindr.github.io/) (Microsoft Research India)
 Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) (MPI-SWS, Germany)    
 Mr. [Anand Rai](https://www.linkedin.com/in/raianand1991/) (IIT Kharagpur, India)    
 Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Kharagpur, India)    
-
-News
-======
-***Aug 2026***: Ended my tenure as a Visiting Researcher at Microsoft Research India. Had a great time working on multiple projects. Check the Publications page for preprints!    
-***June 2026***: I successfully defended my PhD thesis, "Auditing and Mitigating Biases in Face Recognition and Gender Analyzer Systems" from the Dept. of CSE, IIT Kharagpur. Excited for what's next!    
-***February 2024 [Pinned]***: I am starting an Indian Machine Learning Reading Group with [Kishalay Das](https://kdmsit.github.io/) that will be hosted online once a week. Hoping to promote Indian researchers' work from top conferences/journals amongst the community. Do reach out if interested in presenting/attending!      
