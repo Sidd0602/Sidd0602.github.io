@@ -2,14 +2,13 @@
 layout: page
 permalink: /research/
 title: research
-description: collaborators, reviewing, and other research activities.
 nav: true
 nav_order: 3
 ---
 
 ## Research interests
 
-My research is in Responsible AI: auditing human-facing AI systems to understand how well they work for users across geographies, cultures, and demographics, where and why they fail, and how to address those failures in an ecologically valid way. My PhD work focused on biases in face recognition and gender analysis systems, including Global South-centric benchmark datasets, disparity-accuracy trade-offs, and audits of visual search and e-commerce platforms. More recently I have been working on evaluating AI systems for healthcare, such as ambient clinical scribes for multilingual doctor-patient conversations in India.
+My research is in Responsible AI: auditing human-facing AI systems to understand how well they work for users across geographies, cultures, and demographics, where and why they fail, and how to address those failures in an ecologically valid way. My PhD work focused on biases in face recognition and gender analysis systems, including Global South-centric benchmark datasets, disparity-accuracy trade-offs, and audits of visual search and e-commerce platforms. More recently, my work has turned towards AI in healthcare and wellbeing: evaluating ambient clinical scribes for multilingual doctor-patient conversations in India, studying the cultural context of those conversations, and examining the mental health implications of AI companion apps. Across these, the thread is the same: auditing AI systems that people rely on in sensitive, real-world settings, especially for populations that are underrepresented in how these systems are built and evaluated.
 
 ## Collaborators
 

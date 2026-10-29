@@ -79,12 +79,12 @@ cv:
           - As part of a 10-member engineering team, developed query optimization and data connector features for openLooKeng, an open-source distributed SQL query engine based on Apache Presto.
           - Implemented the Table Pushdown query optimization and contributed improvements to the CarbonData data connector.
           - Contributed features, documentation and bug fixes to the project’s publicly accessible source repository.
-      
+
     Awards:
-      - title: Prime Minister's Research Fellowship 
+      - title: Prime Minister's Research Fellowship
         date: January, 2022 -- December, 2024
         awarder: Ministry of Education, GoI
-        
+
       - title: Microsoft Data Science Fellowship
         date: August 2017 -- June 2019
         awarder: Microsoft India
