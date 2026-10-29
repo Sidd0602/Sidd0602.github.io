@@ -29,15 +29,4 @@ I completed my PhD from the Dept. of [CSE](https://cse.iitkgp.ac.in/), [IIT Khar
 
 I completed my M.Tech(Research) degree from Dept of [CDS](https://cds.iisc.ac.in/), [IISc Bengaluru](https://iisc.ac.in/), India. During my time at IISc, I was part of the DREAM Lab, where I worked on distributed graph algorithms. I also received the Microsoft Data Science Fellowship for the duration of my degree. 
 
-I completed my B.Tech in Computer Science and Engg in 2016 from [Tezpur Central University](http://www.tezu.ernet.in/), Tezpur, Assam, India. 
-
-
-### Collaborators
-Prof. [Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) (IIT Kharagpur, India)    
-Prof. [Saptarshi Ghosh](https://sites.google.com/site/saptarshighosh/) (IIT Kharagpur, India)    
-Prof. [Sandipan Sikdar](https://sites.google.com/view/sandipanscssh/) (L3S Research Centre, LUH, Germany)    
-Dr. [Sunayana Sitaram](https://www.microsoft.com/en-us/research/people/susitara/) (Microsoft Research India)    
-Dr. [Mohit Jain](https://mohitjaindr.github.io/) (Microsoft Research India)    
-Dr. [Abhisek Dash](https://sites.google.com/site/abhisek0193/) (MPI-SWS, Germany)    
-Mr. [Anand Rai](https://www.linkedin.com/in/raianand1991/) (IIT Kharagpur, India)    
-Mr. [Sagnik Basu](https://www.linkedin.com/in/sagnik-basu-098a55186/) (IIT Kharagpur, India)    
+I completed my B.Tech in Computer Science and Engg in 2016 from [Tezpur Central University](http://www.tezu.ernet.in/), Tezpur, Assam, India.
